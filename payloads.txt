@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "name": "Fight Club",
+    "author": "Chuck Palahniuk",
+    "publisher": "W.W. Norton"
+}
+{
+    "id": 2,
+    "name": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "publisher": "Del Rey Books"
+}
+{
+    "id": 3,
+    "name": "The 4-Hour Body",
+    "author": "Timothy Ferriss",
+    "publisher": "Crown Archetype"
+}
